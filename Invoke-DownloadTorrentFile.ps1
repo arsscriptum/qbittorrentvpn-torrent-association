@@ -1,7 +1,7 @@
 <#
     Script: Invoke-DownloadTorrentFile.ps1
     Author: Guillaume Plante
-    Created Date: [Date]
+    Created Date: 12-09-2023
     Purpose: 
         This script adds a torrent file to the download list of a qBittorrentVPN server
         by sending the .torrent file using qBittorrent's Web API.

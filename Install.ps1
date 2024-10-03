@@ -1,7 +1,7 @@
 <# 
     File: Install.ps1
-    Author: [Your Name]
-    Created Date: [Date]
+    Author: Guillaume Plante
+    Created Date: 12-09-2023
     Purpose: 
         This script installs the "Invoke-DownloadTorrentFile" functionality by copying the script 
         to the SYSTEM_SCRIPTS_PATH directory, checking for administrative privileges, and adding 

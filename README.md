@@ -1,5 +1,6 @@
-
 # qbittorrentvpn-torrent-association
+
+![1](doc/1.png)
 
 ## Overview
 
@@ -83,22 +84,6 @@ This command will add the specified torrent to the qBittorrentVPN download list,
 2. Select **"Download with QBittorrentVPN"** from the context menu.
 3. The `Invoke-DownloadTorrentFile.ps1` script is executed, adding the torrent to the qBittorrentVPN server.
 4. On success, a prompt asks if you want to open the qBittorrentVPN web interface.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Guillaume Plante
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
-
-## Contact
-
-For any questions or issues, please contact Guillaume Plante.
 
 ## Demo
 
